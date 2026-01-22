@@ -29,8 +29,9 @@ Core concepts of programming.
 ```text
 C-Programming-Studies/
 ├── Games/          
-├── Data-Structures/ 
-├── Exams/           
+├── Exams/
+|    ├── Firts-Exam/
+|    └── Second-Exam/       
 └── README.md
 ```
 
