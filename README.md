@@ -24,9 +24,20 @@ Core concepts of programming.
 ###  Academic Reviews
 - **Exam Prep:** Solutions for "Provas" (Exams) covering various topics from the curriculum (`revisao_prova.c`, `revisao_prova2.c`).
 
+## Project Structure
+
+```text
+C-Programming-Studies/
+├── Games/          
+├── Data-Structures/ 
+├── Exams/           
+└── README.md
+```
+
 ##  How to Compile and Run
 
 You can compile any of these files using a standard C compiler like GCC.
+
 
 **Example (Tic-Tac-Toe):**
 ```bash
